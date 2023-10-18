@@ -27,7 +27,8 @@ public class DrawPanel extends JPanel implements ActionListener {
     public void paint(final Graphics gr) {
         super.paint(gr);
         lighthouse.setX(ticksFromStart);
-        lighthouse.draw(gr);
+        lighthouse.addElements();
+        lighthouse.draw((Graphics2D) gr);
     }
 
     @Override
