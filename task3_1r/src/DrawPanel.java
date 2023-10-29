@@ -20,7 +20,7 @@ public class DrawPanel extends JPanel implements ActionListener {
         timer = new Timer(timerDelay, this);
         timer.start();
 
-        this.lighthouse = new Lighthouse(ticksFromStart, 0, 700, 900, new Color(6, 6, 172));
+        this.lighthouse = new Lighthouse(ticksFromStart, 0, 700, 900, new Color(34, 34, 191));
     }
 
     @Override
