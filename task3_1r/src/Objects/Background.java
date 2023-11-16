@@ -3,8 +3,8 @@ package Objects;
 import java.awt.*;
 
 public class Background extends DrawableElement {
-    public Background(int x, int y, int width, int height, Color color) {
-        super(x, y, width, height, color);
+    public Background(int x, int y, int width, int height) {
+        super(x, y, width, height);
     }
     public void draw(Graphics2D g) {
         //sky

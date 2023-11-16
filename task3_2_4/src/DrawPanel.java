@@ -1,4 +1,4 @@
-import Objects.*;
+import Objects.DrawableElement;
 
 import javax.swing.*;
 import java.awt.*;
@@ -27,7 +27,7 @@ public class DrawPanel extends JPanel implements ActionListener {
     public void paint(final Graphics gr) {
         super.paint(gr);
         for (DrawableElement element : elements) {
-                element.draw((Graphics2D) gr);
+            element.draw((Graphics2D) gr);
         }
     }
     public void addElement(DrawableElement drawableElement) {

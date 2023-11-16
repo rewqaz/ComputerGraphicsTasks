@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbe82b51-ae76-4644-b2ec-bcafc467afab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../task3_2_4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task3_2_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task3_2_4/src/DrawPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task3_2_4/src/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task3_2_4/src/Objects/DrawableElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task3_2_4/src/Objects/Ellipse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task3_2_4/src/Objects/EllipseFillerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3_1r/src/DrawPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task3_1r/src/DrawPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3_1r/src/Lighthouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3_1r/src/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task3_1r/src/MainWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3_1r/src/Objects/Background.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task3_1r/src/Objects/Background.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3_1r/src/Objects/DrawableElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task3_1r/src/Objects/DrawableElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3_2_4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task3_2_4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3_2_4/src/EllipseFiller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3_2_4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task3_2_4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3_2_4/task3_2_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../task3_2_4/task3_2_4.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2YB00N8A0K6UC0ciD7FRo8khond" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/raivanin/Documents/tasks/ComputerGraphicsTasks/task3_3_5"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="task3_3_5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="task3_3_5" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbe82b51-ae76-4644-b2ec-bcafc467afab" name="Changes" comment="" />
+      <created>1699983445104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699983445104</updated>
+    </task>
+    <servers />
+  </component>
+</project>

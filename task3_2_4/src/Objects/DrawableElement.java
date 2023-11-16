@@ -8,6 +8,8 @@ public abstract class DrawableElement {
     protected int width;
     protected int height;
     protected Color color;
+    protected Color startColor;
+    protected Color endColor;
 
     public DrawableElement(int x, int y, int width, int height, Color color) {
         this.x = x;
@@ -21,6 +23,14 @@ public abstract class DrawableElement {
         this.y = y;
         this.width = width;
         this.height = height;
+    }
+    public DrawableElement(int x, int y, int width, int height, Color startColor, Color endColor) {
+        this.x = x;
+        this.y = y;
+        this.width = width;
+        this.height = height;
+        this.startColor = startColor;
+        this.endColor = endColor;
     }
     public abstract void draw(Graphics2D g);
 }
